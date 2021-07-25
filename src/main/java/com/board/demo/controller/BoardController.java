@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.board.demo.doamin.BoardVO;
+import com.board.demo.domain.BoardVO;
 
 @Controller
 @RequestMapping("/board")

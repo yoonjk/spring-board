@@ -1,4 +1,4 @@
-package com.board.demo.doamin;
+package com.board.demo.domain;
 
 import lombok.Getter;
 import lombok.Setter;
